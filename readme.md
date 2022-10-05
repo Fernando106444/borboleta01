@@ -1,4 +1,4 @@
-* Projeto Borboleta
+* Projeto Borboleta Fullstack
 
 * Dba – Administradores de banco de dados 
 * FullStack – Desenvolvedores sênior 
